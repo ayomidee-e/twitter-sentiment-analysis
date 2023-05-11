@@ -1,0 +1,37 @@
+# Python-specific ignore patterns
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+*.venv
+.venv/
+.venv3/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset
+/twitter-sentiment-dataset/
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and outputs
+*.log
+*.csv
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
