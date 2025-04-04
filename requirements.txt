@@ -318,7 +318,7 @@ jupyter_server_fileid==0.9.0
 jupyter_server_terminals @ file:///home/conda/feedstock_root/build_artifacts/jupyter_server_terminals_1673491454549/work
 jupyter_server_ydoc==0.8.0
 jupyterlab==3.6.3
-jupyterlab-git==0.41.0
+jupyterlab-git==0.51.1
 jupyterlab-lsp==4.0.1
 jupyterlab-pygments @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_pygments_1649936611996/work
 jupyterlab-widgets==3.0.7
