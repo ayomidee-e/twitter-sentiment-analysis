@@ -168,7 +168,7 @@ fire==0.5.0
 fitter==1.5.2
 flake8==6.0.0
 flashtext==2.7
-Flask==2.2.3
+Flask==2.2.5
 flatbuffers==23.3.3
 flax==0.6.9
 flit_core @ file:///home/conda/feedstock_root/build_artifacts/flit-core_1667734568827/work/source/flit_core
