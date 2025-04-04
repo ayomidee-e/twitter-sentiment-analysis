@@ -744,7 +744,7 @@ tqdm==4.64.1
 traceml==1.0.8
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1675110562325/work
 traittypes==0.2.1
-transformers==4.28.1
+transformers==4.48.0
 trueskill==0.4.5
 tsfresh==0.20.0
 typeguard==2.13.3
